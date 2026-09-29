@@ -140,4 +140,4 @@ This project was designed and developed by **Badieuddin Habeeb Kazi**, using mod
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/badieuddin-habeeb-kazi-1073262aa/
 
-*For inquiries about this project or web development services, feel free to connect on LinkedIn or contact through the website.*
+
