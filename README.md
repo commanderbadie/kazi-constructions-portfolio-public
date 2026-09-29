@@ -13,9 +13,7 @@
 
 ## 🏗️ About This Project
 
-This is the official digital presence for **Kazi Constructions**, a trusted construction and engineering consultancy firm in Hyderabad with 10+ years of experience delivering residential, commercial, and industrial projects.
 
-The website showcases the company's portfolio, services, and expertise through an interactive, modern web experience built with cutting-edge technologies.
 
 ---
 
